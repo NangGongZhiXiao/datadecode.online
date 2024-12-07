@@ -1,5 +1,5 @@
 # datadecode.online
-Free online tool to decode and visualize Base64, JSON, JWT, URLs and more. see:  (https://datadecode.online/)[https://datadecode.online/]
+Free online tool to decode and visualize Base64, JSON, JWT, URLs and more. see:  (datadecode.online)[https://datadecode.online/]
 
 ## What Our Decoder Can Do
 Our Universal Data Decoder is a powerful tool specifically designed to automatically detect and decode various data formats such as Base64, JSON, JWT, and URLs. Whether you're a developer or tech enthusiast, this tool simplifies your process of understanding encoded data.
